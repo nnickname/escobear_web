@@ -4,4 +4,4 @@
 - Notificaciones que pueden subir administradores
 - Soporte, con tickets.
 
-https://i.imgur.com/WN5YmXI.png
+![Test Image 6](https://i.imgur.com/WN5YmXI.png)
