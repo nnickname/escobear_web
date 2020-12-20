@@ -1,8 +1,11 @@
-* (WEB ESCOBEAR: desarrollada por Xylos)
+* ESCOBEAR WEB
 
-- Sistema de sessions, con inicio y registro.
-- Notificaciones que pueden subir administradores
-- Soporte, con tickets.
+- user system
+- register and login
+- bcrypt hash
+- notifications(in the database required player_admin level 3)
+- support
+- ticket's system
 
 ![Test Image 6](https://i.imgur.com/WN5YmXI.png)
 
